@@ -554,5 +554,3 @@ The experiment demonstrated the use of **prompt engineering for text-to-video ge
 The experiment also demonstrated that **specific descriptions of motion and scene composition are particularly important for video generation**, because the AI model must generate not only individual visual elements but also continuous movement between frames.
 
 Although exact reproduction of the original video is difficult, carefully structured prompts can generate visually similar autonomous-driving simulations. Such techniques can be useful for **ADAS education, automotive visualization, simulation, presentations, and future AI-based driving-system research**.
-
-> **Important:** The generated video is a visual simulation for this experiment and should not be interpreted as evidence that an AI-generated scene represents real-world autonomous-driving capability.
